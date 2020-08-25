@@ -20,4 +20,4 @@
 
 ### Solution Components Table
 
-![](images/table.png)
+![](images/table.PNG)
