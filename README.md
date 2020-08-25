@@ -10,8 +10,6 @@
 
 
 
-
-
 ### Solution Architecture
 
 <img src="images/design.png" width="600">
@@ -22,5 +20,5 @@
 
 ### Solution Components Table
 
-<!--<img src="images/table-new.PNG" width="600">-->
-![](images/table-new.PNG)
+<!--<img src="images/table.PNG" width="600">-->
+![](images/table.PNG)
