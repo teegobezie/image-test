@@ -20,5 +20,5 @@
 
 ### Solution Components Table
 
-<img src="images/table.png" width="600">
-<!--![](images/table.png)-->
+<img src="images/table.PNG" width="600">
+<!--![](images/table.PNG)-->
