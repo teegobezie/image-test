@@ -4,8 +4,9 @@
 
 ### Flowchart
 
-![](images/flowchart.png)
+<img src="images/flowchart.png" width="100">
+
 
 ### Design
 
-![](images/design.png)
+<img src="images/design.png" width="100">
