@@ -4,9 +4,9 @@
 
 ### Flowchart
 
-<img src="images/flowchart.png" width="300">
+<img src="images/flowchart.png" width="500">
 
 
 ### Design
 
-<img src="images/design.png" width="300">
+<img src="images/design.png" width="500">
